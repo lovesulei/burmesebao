@@ -1,6 +1,6 @@
 import { useParams, Link } from "react-router-dom";
 import { useQuery } from "@tanstack/react-query";
-import Layout from "../components/layout/Layout";
+import Layout from "../components/Layout/Layout";
 import { getPhrases } from "../services/phrases";
 import { getCategory } from "../services/categories";
 
