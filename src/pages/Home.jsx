@@ -1,4 +1,4 @@
-import Layout from "../components/layout/Layout";
+import Layout from "../components/Layout/Layout";
 import { useQuery } from "@tanstack/react-query";
 import { getCategories } from "../services/categories";
 import { Link } from "react-router-dom";
